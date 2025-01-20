@@ -58,7 +58,7 @@ export default function PrimarySearchAppBar() {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
         <Toolbar>
-        <Image src="/logo.png" alt="Brand Logo" width={40} height={40} />
+        <Image src="./logo.png" alt="Brand Logo" width={40} height={40} />
           <Typography
             variant="h6"
             noWrap
